@@ -2,4 +2,7 @@
 
 [opencv 2小時初學者教學](https://www.youtube.com/watch?v=xjrykYpaBBM)
 
-[OpenCV中文官方文档](https://woshicver.com/)
+[面向初学者的 OpenCV-Python 教程](https://codec.wang/docs/opencv)
+
+[OpenCV Python Tutorials](https://opencv-python-tutorials.readthedocs.io/zh/latest/)
+
